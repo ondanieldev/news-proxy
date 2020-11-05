@@ -6,7 +6,7 @@ When I was developing an application that uses the [News API](https://newsapi.or
 
 ## NextJS
 
-I want to emphasize that I used NextJS because I needed to deploy it without using a server. So, NextJS was very useful to do this, because it is serverless.
+I want to emphasize that I used NextJS because I needed to deploy it without using a server. So, NextJS was very useful to do this, because it is serverless and very easy to deploy using Vercel.
 
 ## Reuse
 
