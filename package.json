@@ -1,8 +1,19 @@
 {
-  "name": "backend",
+  "name": "news-proxy",
   "version": "1.0.0",
-  "main": "index.js",
+  "author": {
+    "email": "me@ondaniel.com.br",
+    "name": "Daniel Oliveira",
+    "url": "https://ondaniel.com.br/"
+  },
+  "description": "Bypass News API CORS error.",
+  "homepage": "https://vercel.com/stemdaniel/news-proxy",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/stemDaniel/news-proxy/",
+    "type": "git"
+  },
+  "main": "index.js",
   "private": false,
   "dependencies": {
     "axios": "^0.19.2",
